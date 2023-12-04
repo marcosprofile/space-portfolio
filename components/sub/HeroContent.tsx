@@ -31,7 +31,9 @@ const HeroContent = () => {
         >
           <span>
             Fornecendo
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500"> a melhor </span>
+            <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">
+              {" "}a melhor{" "}
+            </span>
             experiência de projeto
           </span>
         </motion.div>
